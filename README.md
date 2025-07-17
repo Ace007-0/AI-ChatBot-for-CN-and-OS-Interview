@@ -62,7 +62,8 @@ Open your browser and navigate to the URL provided by Streamlit.
 
 ## Images
 <img width="778" height="448" alt="image" src="https://github.com/user-attachments/assets/62ae485d-dff5-4bea-9701-c1e7b3762197" />
-<img width="778" height="448" alt="image" src="https://github.com/user-attachments/assets/6323b33a-c242-42f9-a1e3-b4b451bc6eea" />
+<img width="1757" height="848" alt="image" src="https://github.com/user-attachments/assets/64df636d-2f9e-4570-b15b-24575bea0ba0" />
+
 
 
 

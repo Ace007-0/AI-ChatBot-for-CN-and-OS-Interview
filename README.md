@@ -14,8 +14,8 @@ Welcome to the **AI Buddy** project! This is a conversational AI assistant built
 
 ### 1. **Clone the Repository**
 ```bash
-git clone https://github.com/your_username/ai-os-cn-chatbot.git
-cd ai-os-cn-chatbot
+git clone https://github.com/Ace007-0/AI-ChatBot-for-CN-and-OS-Interview.git
+cd AI-ChatBot-for-CN-and-OS-Interview
 ```
 
 ### 2. **Install Requirements**
